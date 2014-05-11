@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.sourcetalk.plugin_1.0.0.jar" id="org.sourcetalk.plugin" version="1.0.0">
+      <category name="sourcetalk"/>
+   </feature>
+   <category-def name="sourcetalk" label="SourceTalk"/>
+</site>
