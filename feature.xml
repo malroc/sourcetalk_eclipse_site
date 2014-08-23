@@ -2,7 +2,7 @@
 <feature
       id="org.sourcetalk.plugin"
       label="SourceTalk plugin"
-      version="1.0.0"
+      version="1.2.0"
       provider-name="SourceTalk">
 
    <description url="http://sourcetalk.net">
@@ -47,7 +47,7 @@ THE SOFTWARE.
          id="org.sourcetalk_plugin.eclipse"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.2.0"
          unpack="false"/>
 
 </feature>
